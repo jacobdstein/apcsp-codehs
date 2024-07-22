@@ -1,0 +1,3 @@
+Top Down Design is simplifying a program into smaller tasks that are easy to complete.
+
+Top Down Design is helpful when writing programs because it breaks down the program into bite sized pieces that are simple to tackle.

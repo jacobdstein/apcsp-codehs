@@ -1,0 +1,4 @@
+Images of the world around the car are collected.                               
+The computers learn through simulations to tell the car what action to take.    
+Computers make driving easier because it puts less stress on the driver.        
+No, predictions based on the data are neccessary to make the car safe.

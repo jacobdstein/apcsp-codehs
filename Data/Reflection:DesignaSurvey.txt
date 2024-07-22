@@ -1,0 +1,5 @@
+1. List at least three particular pieces of data you would collect to determine the effects of water pollution.  What kind of data would you collect (number data, text data, sensor data, etc.)? Would you be able to make any other conclusions by using the data you collect?
+I would collect information on plant health near the river (number), average health conditions of the animals in the river (text), and analyze a sample of the water in the river (text/number). The conclusion I could make is how the poor water conditions affect the animals in the river.
+
+2. Often, a single source does not contain the data needed to draw a conclusion. It may be necessary to combine data from a variety of sources to formulate a conclusion. How could you do this in this situation of measuring pollution on a particular river?
+    I could collect other studies made on the river I am researching on.

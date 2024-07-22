@@ -1,0 +1,1 @@
+When I read a French to English dictionary, I saw that the french words were encoded to correlate to the English translation. Ex. la mer --> the sea

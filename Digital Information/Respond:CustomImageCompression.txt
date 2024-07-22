@@ -1,0 +1,6 @@
+Write your answers to each question here: 
+1. 24 bits per color are needed.
+2. instead of using 24 bits, 2 can be used for each  of  the four colors.
+ex. 00, 01, 10, 11
+3. Using the suggested method, 7480 bits would be saved.
+4. No quality would be lost since this is lossless encoding.

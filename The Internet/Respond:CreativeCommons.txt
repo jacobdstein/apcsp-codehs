@@ -1,0 +1,13 @@
+1. CC BY: Only the name or link is needed to use the work.
+
+2. CC BY-SA: Same as CC BY but the share-alike system is used.
+
+3. CC BY-ND: Same as CC BY but the work used can not be altered.
+
+4. CC BY-NC: Same  as CC BY but the work cannot be used to sell items or be part of a transaction.
+
+5. CC BY-NC-SA: Same as CC BY-NC but share-alike is used.
+
+6. CC BY-NC-ND: Same as CC BY-NC but the work cannot be edited.
+
+Of the six licenses, which type is the most restrictive in terms of how you can use the work? Which type is the least restrictive?

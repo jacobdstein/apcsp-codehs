@@ -1,0 +1,5 @@
+What do each of the options mean?
+
+Creative Commons licences is the option that shows work only that is published on the creative commons website.
+
+Commercial and other licences is the option that shows work that is sold or has special licenses on them.

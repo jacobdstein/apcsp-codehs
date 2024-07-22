@@ -1,0 +1,2 @@
+Hospital websites that track biometric data can benefit the user by recommending treatments they can try to fix their condition.
+PII can be used maliciously to commit identity fraud online. (SSN, age race, etc)

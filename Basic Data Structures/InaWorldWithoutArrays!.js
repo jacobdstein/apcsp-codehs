@@ -1,0 +1,25 @@
+function start(){
+	
+    var num1 = 15;
+    var num2 = 32;
+    var num3 = 19;
+    var num4 = 11;
+    var num5 = 28;
+    var num6 = 24;
+    oddOrEven(num1);
+    oddOrEven(num2);
+    oddOrEven(num3);
+    oddOrEven(num4);
+    oddOrEven(num5);
+    oddOrEven(num6);
+    
+}//end start
+
+function oddOrEven(num){
+    if(num % 2 == 0){
+        println("Even");
+    }//end if
+    else{
+        println("False");
+    }//end else
+}//end oddOrEven

@@ -1,0 +1,6 @@
+1. Abstracting data manages program complexity by simplifying it to the
+programmer.
+
+2. Lists and arrays make programs easier to develop and maintain by allowing
+the entities in the list to be used at one time, instead of many more individual
+commands.

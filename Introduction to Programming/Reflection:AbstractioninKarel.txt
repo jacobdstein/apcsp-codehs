@@ -1,0 +1,3 @@
+Abstraction helps us write programs by separating the bigger task into smaller and mroe tackable tasks for programming.
+
+The Docs tab gives the user the information required to use the procedures provided for the assignment.

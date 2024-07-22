@@ -1,0 +1,3 @@
+It is important to write comments for the code segments in a program because it explains the purpose of the code segment to a reader.
+
+It is important to list the overview of the function and the pre and post conditions of a function above the function.

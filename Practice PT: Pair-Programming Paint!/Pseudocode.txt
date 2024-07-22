@@ -1,0 +1,128 @@
+To start
+    build the frame
+    build the feet
+    build the wings
+
+To make a frame
+    paint the square black
+    Repeat 4 times:
+        While the front is clear
+        paint the square black
+        move
+        
+To make feet
+    go to the position where the foot will be
+    paint the outline
+    fill in the outline
+    go to the start position
+
+To go to the foot position
+    move twice
+    move twice
+    turn left
+    move twice
+    turn right
+
+To make the outline
+    paint the square black
+    Repeat 2 times:
+        Repeat 11 times:
+            move
+            paint the square black
+        
+        turn left
+        move
+        paint the square black
+        move
+        paint the square black
+        turn left
+
+To move twice
+    move
+    move
+    
+To fill in the feet
+    move
+    turn left
+    move
+    turn right
+    Repeat 4 times:
+        paint the square orange
+        move
+    paint the square black
+    move
+    paint the square black
+    move
+    Repeat 4 times:
+        paint the square orange
+        move
+
+
+To build the wing
+    go to the wing position
+    Repeat 3 times:
+        paint the square black
+        move
+    move
+    turn right
+    move
+    turn right
+    Repeat 5 times:
+        paint the square black
+        move
+    turn left
+    move
+    turn left
+    move two times
+    move
+    Repeat 4 times:
+        paint the square black
+        move
+    go to the start position
+
+To go to the wing
+    move two times
+    turn left
+    move two times
+    move two times
+    move two times
+    move
+
+To go to the start position
+        while karel is not facing west:
+        turn left
+    Repeat 2 times:
+        while karels front is clear:
+            move
+        turn left
+
+To make the seocond penguin wing:
+    go to the second wing position
+    Repeat 4 times:
+        paint the square black
+        move
+    move
+    turn left
+    move
+    turn left
+    Repeat 5 times:
+        paint the square black
+        move
+    turn right
+    move
+    turn right
+    move
+    move two times
+    Repeat 3 times:
+        paint the square black
+        move
+    go to the start position
+
+To go to the second wing position
+    Repeat 12 times:
+        move
+        turn left
+        move
+        turn right
+    move twice
+    move turn right

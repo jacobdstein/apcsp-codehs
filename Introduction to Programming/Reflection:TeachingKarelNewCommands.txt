@@ -1,0 +1,1 @@
+It is useful to teach Karel to turn right to shorten and simplify the program.
